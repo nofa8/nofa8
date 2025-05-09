@@ -1,6 +1,7 @@
 ## Hey there! 👋 Welcome to my byte-sized world 🚀
 
 I'm **Afonso**, a curious mind walking the fine line between hardware and software.
+
 **Computer Engineering Student** & **Junior Researcher** @ [IPLeiria](https://www.ipleiria.pt) 🧠💡
 
 > *"Turning green tea 🍵 into code and ideas into systems."*
