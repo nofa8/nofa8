@@ -1,7 +1,6 @@
 ## Hey there! 👋 Welcome to my byte-sized world 🚀
 
 I'm **Afonso**, a curious mind walking the fine line between hardware and software.
-
 **Computer Engineering Student** & **Junior Researcher** @ [IPLeiria](https://www.ipleiria.pt) 🧠💡
 
 > *"Turning green tea 🍵 into code and ideas into systems."*
@@ -14,9 +13,9 @@ I'm **Afonso**, a curious mind walking the fine line between hardware and softwa
 
 * 🔗 **Current Mission**: Fusing **Large Language Models** with **Hyperledger** for smarter, decentralized systems
 * 💡 **Tinkering Around**:
-  `Go` • `Python` • `PHP` • `JavaScript` • `Java` • `C` • `Bash`
+  `Go` • `Python` • `PHP` • `JavaScript` • `Java` • `C` • `C++` • `Rust` • `C#` • `Kotlin` • `Bash` • `HTML/CSS`
 * 🧠 **Exploring Concepts**:
-  Distributed Systems • Blockchain • AI Architectures • Automation Workflows
+  Distributed Systems • Blockchain • AI Architectures • Secure Protocols • Automation Workflows
 
 ---
 
@@ -28,4 +27,4 @@ I'm **Afonso**, a curious mind walking the fine line between hardware and softwa
 * 🔐 **Cybersecurity** & system hardening
 * 🤖 The wild frontier of **AI & Machine Learning**
 
-
+---
