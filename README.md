@@ -23,8 +23,8 @@ I'm **Afonso**, a curious mind walking the fine line between hardware and softwa
 ### 💭 Let's talk about:
 
 * 🧠 **Science**, **Physics**, and how everything *works*
-* 🏛️ **Philosophy** & **History**, because ideas shape tech
-* 🎮 **Game Design** and mechanics that challenge cognition
+* 🏛️ **Philosophy** & **History**, because ideas shape the world
+* 🎮 **Games and Puzzles**  that challenge cognition 
 * 🔐 **Cybersecurity** & system hardening
 * 🤖 The wild frontier of **AI & Machine Learning**
 
