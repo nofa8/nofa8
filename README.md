@@ -10,7 +10,7 @@ I'm **Afonso**, a curious mind walking the fine line between hardware, software 
 
 ### 🎮 What I'm Playing (with):
 
-> 🧪 Experimenting, coding, and occasionally breaking things — all in the name of learning.
+> 🧪 Experimenting, coding, reading, and occasionally nothing — all in the name of learning in a healthy way.
 
 * 🔗 **Current Mission**: Fusing **Large Language Models** with **Hyperledger** for smarter, decentralized systems
 * 💡 **Tinkering Around**:
