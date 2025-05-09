@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hey there! 👋 Welcome to my byte-sized world 🚀
 
-<!--
-**nofa8/nofa8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Afonso**, a curious mind walking the fine line between hardware and software.
+**Computer Engineering Student** & **Junior Researcher** @ [IPLeiria](https://www.ipleiria.pt) 🧠💡
 
-Here are some ideas to get you started:
+> *"Turning green tea 🍵 into code and ideas into systems."*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎮 What I'm Playing (with):
+
+> 🧪 Experimenting, coding, and occasionally breaking things — all in the name of learning.
+
+* 🔗 **Current Mission**: Fusing **Large Language Models** with **Hyperledger** for smarter, decentralized systems
+* 💡 **Tinkering Around**:
+  `Go` • `Python` • `PHP` • `JavaScript` • `Java` • `C` • `Bash`
+* 🧠 **Exploring Concepts**:
+  Distributed Systems • Blockchain • AI Architectures • Automation Workflows
+
+---
+
+### 💭 Let's talk about:
+
+* 🧠 **Science**, **Physics**, and how everything *works*
+* 🏛️ **Philosophy** & **History**, because ideas shape tech
+* 🎮 **Game Design** and mechanics that challenge cognition
+* 🔐 **Cybersecurity** & system hardening
+* 🤖 The wild frontier of **AI & Machine Learning**
+
+
