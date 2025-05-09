@@ -1,6 +1,6 @@
-## Hey there! 👋 Welcome to my byte-sized world 🚀
+## Salutations! 👋 Free-entry to my byte-sized world 🚀
 
-I'm **Afonso**, a curious mind walking the fine line between hardware and software.
+I'm **Afonso**, a curious mind walking the fine line between hardware, software and humans.
 
 **Computer Engineering Student** & **Junior Researcher** @ [IPLeiria](https://www.ipleiria.pt) 🧠💡
 
